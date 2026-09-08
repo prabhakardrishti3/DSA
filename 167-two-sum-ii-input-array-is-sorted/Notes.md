@@ -1,1 +1,1 @@
-<h2>two-sum-ii-input-array-is-sorted Notes</h2><hr>[ Time taken: 1d 0hrs 35m 27s ]
+<h2>two-sum-ii-input-array-is-sorted Notes</h2><hr>[ Time taken: 1d 0hrs 57m 8s ]
